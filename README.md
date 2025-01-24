@@ -43,4 +43,4 @@ Hey team! 🎉 We're going to work together on a fun project where we'll create 
 
 Let's make sure to have fun and help each other out! 🚀
 
-![alt text](image.png)
+![alt text](./img/image.png)
