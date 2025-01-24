@@ -4,7 +4,7 @@ Hey team! 🎉 We're going to work together on a fun project where we'll create 
 
 ## 1. GitHub Setup
 - GitHub is like a big folder where we all put our work together, and it helps us keep track of changes.
-- We'll create one main folder (called a repository) on GitHub. Everyone will work from there.
+- We'll create one main folder (called a repository) on GitHub. Everyone will work from there
 
 ## 2. Your Page (Using VS Code)
 - You’re going to create your own page! The page should be HTML (and if you want, you can use CSS to make it look fancy, but it's optional).
